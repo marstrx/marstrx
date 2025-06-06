@@ -1,1 +1,2 @@
-![Description of GIF](video/nice.gif)
+
+<img alt="marstrx" src="video/nice.gif" width="100%">
